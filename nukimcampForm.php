@@ -40,7 +40,7 @@
                 <option value = "Taipei"> 台北 </option>
                 <option value = "Yilan"> 宜蘭 </option>
                 <option value = "Taoyuan"> 桃園 </option>
-                <option value = "Hsinchu"> 新竹 </opton>
+                <option value = "Hsinchu"> 新竹 </option>
                 <option value = "Miaoli"> 苗栗 </option>
                 <option value = "Taichung"> 台中 </option>
                 <option value = "Changhua"> 彰化 </option>
